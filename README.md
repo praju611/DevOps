@@ -4,6 +4,7 @@ This is a sample Java / Maven / Spring Boot (version 1.5.6) application that can
 
 this is java project
 ## How to Run 
+testing rules
 
 This application is packaged as a war which has Tomcat 8 embedded. No Tomcat or JBoss installation is necessary. You run it using the ```java -jar``` command.
 
